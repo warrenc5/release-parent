@@ -4,7 +4,7 @@
     <groupId>mobi.mofokom</groupId>
     <artifactId>parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>release parent</name>
     <url />
     <description />
@@ -134,7 +134,7 @@
         <connection>scm:git:git@github.com:warrenc5/release-parent.git</connection>
         <developerConnection>scm:git:git@github.com:warrenc5/release-parent.git</developerConnection>
         <url>https://github.com/warrenc5/release-parent</url>
-        <tag>parent-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
