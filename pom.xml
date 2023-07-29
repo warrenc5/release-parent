@@ -7,7 +7,7 @@
     <version>1.0.1-SNAPSHOT</version>
     <name>release parent</name>
     <url />
-    <description />
+    <description>release parent for projects</description>
     <licenses>
         <license>
             <name>The GNU Lesser General Public License, Version 3.0</name>
