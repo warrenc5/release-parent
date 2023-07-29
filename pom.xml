@@ -6,7 +6,7 @@
     <packaging>pom</packaging>
     <version>1.0.1-SNAPSHOT</version>
     <name>release parent</name>
-    <url />
+    <url>https://github.com/warrenc5/release-parent</url>
     <description>release parent for projects</description>
     <licenses>
         <license>
