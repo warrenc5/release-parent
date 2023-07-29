@@ -55,6 +55,7 @@
                             <useReleaseProfile>true</useReleaseProfile>
                             <arguments>-Dgpg.passphrase=${gpg.passphrase}</arguments>
                         </configuration>
+                        <!--
                         <dependencies>
                             <dependency>
                                 <groupId>org.apache.maven.scm</groupId>
@@ -62,6 +63,7 @@
                                 <version>1.12.0</version>
                             </dependency>
                         </dependencies>
+                                                -->
                     </plugin>
                     <plugin>
                         <groupId>org.sonatype.plugins</groupId>
