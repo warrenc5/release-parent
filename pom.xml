@@ -22,6 +22,10 @@
             <url>https://github.com/warrenc5</url>
         </developer>
     </developers>
+
+    <build>
+        <defaultGoal>install</defaultGoal>
+    </build>
     <profiles>
         <profile>
             <id>release</id>
@@ -100,6 +104,9 @@
                                 </goals>
                             </execution>
                         </executions>
+                        <configuration>
+                            <doclint>all,-missing</doclint>
+                        </configuration>
                     </plugin>
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
